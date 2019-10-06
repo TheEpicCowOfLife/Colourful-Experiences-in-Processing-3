@@ -1,0 +1,1 @@
+This is a variation of Tan_wave where each alternate dot goes in the opposite direction.

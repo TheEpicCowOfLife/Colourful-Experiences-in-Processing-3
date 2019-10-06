@@ -1,0 +1,1 @@
+This is a variation on Sin_Wave where each dot's y position is determined by the tan function, another periodic trigonometric function.

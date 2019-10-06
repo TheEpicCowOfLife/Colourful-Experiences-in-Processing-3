@@ -1,0 +1,1 @@
+This is just a variant of harmonic RGB madness, where I join adjacent dots using a bezeir curve.
